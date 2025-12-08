@@ -1,0 +1,21 @@
+{
+  "name": "devtinder-backend",
+  "version": "1.0.0",
+  "description": "dev tinder for developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "learning",
+    "node"
+  ],
+  "author": "Bapuray Arer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
